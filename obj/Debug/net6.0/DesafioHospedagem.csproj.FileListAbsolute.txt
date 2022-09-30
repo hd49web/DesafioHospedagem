@@ -1,0 +1,15 @@
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\bin\Debug\net6.0\DesafioHospedagem.exe
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\bin\Debug\net6.0\DesafioHospedagem.deps.json
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\bin\Debug\net6.0\DesafioHospedagem.runtimeconfig.json
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\bin\Debug\net6.0\DesafioHospedagem.dll
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\bin\Debug\net6.0\DesafioHospedagem.pdb
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.csproj.AssemblyReference.cache
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.AssemblyInfoInputs.cache
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.AssemblyInfo.cs
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.csproj.CoreCompileInputs.cache
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.dll
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\refint\DesafioHospedagem.dll
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.pdb
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\DesafioHospedagem.genruntimeconfig.cache
+E:\Dio Carrefour\C#\DioprojetoHospedagem\DesafioHospedagem\obj\Debug\net6.0\ref\DesafioHospedagem.dll
